@@ -1,3 +1,2 @@
 # sigifredob.github.io
-portafolio de apps personal
-Experimentos
+portafolio de apps personal y experimentos
